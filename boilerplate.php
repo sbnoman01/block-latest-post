@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Boilerplate
+ * Plugin Name:       Latest Posts
  * Description:       Example block written with ESNext standard and JSX support – build step required.
  * Requires at least: 5.7
  * Requires PHP:      7.0
